@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "Name": "Anuroop Arya",
+            "DOB": "2000-05-15",
+            "Height": 175,
+            "City": "Nainital",
+            "State": "Uttarakhand"
+        },
+        {
+            "Name": "sarthak goel",
+            "DOB": "1985-12-10",
+            "Height": 162,
+            "City": "Meerut",
+            "State": "Uttar- pradesh"
+        },
+        {
+            "Name": "shaurya sharma",
+            "DOB": "1992-08-23",
+            "Height": 150,
+            "City": "Delhi",
+            "State": "Delhi"
+        },
+        {
+            "Name": "Karan Arya",
+            "DOB": "1988-04-03",
+            "Height": 168,
+            "City": "Bhopal",
+            "State": "Madhya pradesh"
+        },
+        {
+            "Name": "Rohit Saxena",
+            "DOB": "2015-10-05",
+            "Height": 172,
+            "City": "Haridwar",
+            "State": "Uttarakhand"
+        }
+    ]
+}
